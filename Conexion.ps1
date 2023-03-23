@@ -1,1 +1,1 @@
-Start Notepad
+Start cmd.exe

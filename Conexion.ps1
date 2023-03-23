@@ -1,1 +1,1 @@
-Start cmd.exe
+start cmd.exe
